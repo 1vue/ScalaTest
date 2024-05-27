@@ -3,6 +3,6 @@ object hello {
 
     val a=("tom",1)
 
-    println(a._2)
+    println(a._1)
   }
 }
