@@ -1,0 +1,10 @@
+switchA.enabled = true
+switchA.depList = [1, 2, 3]
+switchA.metaInfo.owner = "userA"
+switchA.metaInfo.comment = "hello world"
+
+switchB.enabled = false
+switchB.depList = [7,882,5,        4]
+switchB.metaInfo.owner = "userB"
+
+switchB.metaInfo.comment = "hello world"
